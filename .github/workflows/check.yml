@@ -12,6 +12,6 @@ jobs:
           run: ./configure
         - name: make
           run: make
-        - name: test
+#        - name: test
 #          run: make test
 
